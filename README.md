@@ -26,9 +26,6 @@ When a laser beam is interrupted, the system activates a camera and uses a YOLO-
 - Artificial Intelligence
 - IoT
 
-## System Architecture
-
-![Architecture](images/system_architecture.png)
 
 ## Installation
 
